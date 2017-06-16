@@ -7,7 +7,7 @@ Plugin 'scrooloose/nerdtree'
 call vundle#end()            
 filetype plugin indent on 
 
-map <C-l> :NERDTreeToggle <C-R>
+map <C-l> :NERDTreeToggle<CR>
 
 set nu
 set tabstop=4
